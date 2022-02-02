@@ -9,8 +9,8 @@ public class TestData {
     public static String JPG_FILE_NAME = "cat.jpg";
 
     public static String TXT_FILE_DOWNLOAD_PAGE = "https://filesamples.com/formats/txt";
-    public static String TXT_FILE_NAME_DOWNLOAD = "sample2.txt";
-    public static String TXT_FILE_CONTENT = "Indicant pueri, in quibus ut in speculis natura cernitur.";
+    public static String TXT_FILE_NAME_DOWNLOAD = "sample1.txt";
+    public static String TXT_FILE_CONTENT = "Summum a vobis bonum voluptas dicitur";
 
     public static String DOCX_FILE_DOWNLOAD_PAGE = "https://filesamples.com/formats/docx";
     public static String DOCX_FILE_NAME = "sample1.docx";

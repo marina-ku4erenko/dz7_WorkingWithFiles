@@ -26,8 +26,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class WorkWithFilesTests extends TestBase {
 
-    TestData testData = new TestData();
-
     @Test
     @Owner("marina-ku4erenko")
     @Feature("Загрузка файлов")
